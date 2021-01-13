@@ -2,6 +2,11 @@
 
 NOTE: PLEASE ADD LOMBOK.JAR SUPPORT IN YOUR IDE BEFORE RUNNING THE PROJECT
 
+Project Description:-
+Service: com.crejo.fun.movie.review.service.MovieReviewService.java
+Test Service: com.crejo.fun.movie.review.service.MovieReviewServiceTest.java
+Repository: com.crejo.fun.movie.review.dao.MovieReviewRepository.java
+
 Assignment Details:-
 
 Assignment: Movie Review Service
